@@ -21,6 +21,7 @@
 
 ### Videos 
 * [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
+* [State Management is Easy](https://www.youtube.com/watch?v=ApmSsu3qnf0)
 
 ### Blogs
 * [Becoming fully reactive: an in-depth explanation of MobX](https://medium.com/@mweststrate/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254)
