@@ -8,6 +8,7 @@
 ### Tools & libraries
 * [**mobx-react** - React bindings to mobx](https://github.com/mobxjs/mobx-react)
 * [mobx-react-devtools](https://github.com/mobxjs/mobx-react-devtools)
+* [mobx-utils](https://github.com/mobxjs/mobx-utils)
 * [mobx-forms](https://github.com/oreqizer/mobx-forms)
 * [react-native-mobx](https://github.com/aksonov/react-native-mobx)
 * [mobx-connect](https://github.com/nightwolfz/mobx-connect)
