@@ -31,3 +31,4 @@
 * [Handling React Forms with Mobx Observables](https://blog.risingstack.com/handling-react-forms-with-mobx-observables/)
 * [How to Test React and MobX with Jest](https://semaphoreci.com/community/tutorials/how-to-test-react-and-mobx-with-jest)
 * [MobX React: Simplified State Management in React](http://www.robinwieruch.de/mobx-react/)
+* [Building a performant Stopwatch with MobX and React](https://onsen.io/blog/mobx-tutorial-react-stopwatch/)
