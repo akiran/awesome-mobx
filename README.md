@@ -29,3 +29,4 @@
 * [Why We Chose MobX Over Redux For Spectacle Editor](https://formidable.com/blog/2016/06/02/why-we-chose-mobx-over-redux-for-spectacle-editor/)
 * [Handling React Forms with Mobx Observables](https://blog.risingstack.com/handling-react-forms-with-mobx-observables/)
 * [How to Test React and MobX with Jest](https://semaphoreci.com/community/tutorials/how-to-test-react-and-mobx-with-jest)
+* [MobX React: Simplified State Management in React](http://www.robinwieruch.de/mobx-react/)
