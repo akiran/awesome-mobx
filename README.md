@@ -20,6 +20,7 @@
 ### Examples
 * [mobx-react-todomvc](https://github.com/mobxjs/mobx-react-todomvc)
 * [favesound-mobx](https://github.com/rwieruch/favesound-mobx)
+* [cosmicapp-voting-app](https://github.com/cosmicjs/cosmicapp-voting-app)
 
 ### Videos 
 * [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
