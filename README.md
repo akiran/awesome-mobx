@@ -16,6 +16,7 @@
 ### Boilerplates
 * [mobx-react-boilerplate](https://github.com/mobxjs/mobx-react-boilerplate)
 * [mobx-react-typescript-boilerplate](https://github.com/mobxjs/mobx-react-typescript-boilerplate)
+* [create-react-app-mobx](https://github.com/mobxjs/create-react-app-mobx/)
 
 ### Examples
 * [mobx-react-todomvc](https://github.com/mobxjs/mobx-react-todomvc)
