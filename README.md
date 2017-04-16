@@ -23,6 +23,7 @@
 * [favesound-mobx](https://github.com/rwieruch/favesound-mobx)
 * [cosmicapp-voting-app](https://github.com/cosmicjs/cosmicapp-voting-app)
 * [task-management](https://github.com/nickuraltsev/task-management)
+* [nested-task-list-mobx-react](https://github.com/justinhaaheim/nested-task-list-mobx-react)
 
 ### Videos 
 * [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
