@@ -17,6 +17,7 @@
 * [mobx-react-boilerplate](https://github.com/mobxjs/mobx-react-boilerplate)
 * [mobx-react-typescript-boilerplate](https://github.com/mobxjs/mobx-react-typescript-boilerplate)
 * [create-react-app-mobx](https://github.com/mobxjs/create-react-app-mobx/)
+* [react-mobx-soundcloud](https://github.com/rwieruch/react-mobx-soundcloud)
 
 ### Examples
 * [mobx-react-todomvc](https://github.com/mobxjs/mobx-react-todomvc)
@@ -32,9 +33,10 @@
 
 ### Blogs
 * [Becoming fully reactive: an in-depth explanation of MobX](https://medium.com/@mweststrate/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254)
+* [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
 * [Why We Chose MobX Over Redux For Spectacle Editor](https://formidable.com/blog/2016/06/02/why-we-chose-mobx-over-redux-for-spectacle-editor/)
 * [Handling React Forms with Mobx Observables](https://blog.risingstack.com/handling-react-forms-with-mobx-observables/)
 * [How to Test React and MobX with Jest](https://semaphoreci.com/community/tutorials/how-to-test-react-and-mobx-with-jest)
-* [MobX React: Simplified State Management in React](http://www.robinwieruch.de/mobx-react/)
+* [From Redux to MobX in a React SoundCloud Client](https://www.robinwieruch.de/mobx-react/)
 * [Building a performant Stopwatch with MobX and React](https://onsen.io/blog/mobx-tutorial-react-stopwatch/)
 * [Real time Chat App with OnsenUI and Horizon!](https://onsen.io/blog/onsenui-horizon-rethinkdb-chat/)
